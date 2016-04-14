@@ -1,0 +1,104 @@
+
+<p> I am a co-organizer of the <a href="StochSem">Stochastics Seminar</a> and the
+<a href="http://www.math.uu.nl/announcements/stafcol/2014-2015/">Mathematics colloquium</a> in  Utrecht. <br>
+I am / have been (co-) organizer of the following conferences and workshops:
+</p>
+
+
+<b>Upcoming</b>
+
+
+<ul>
+
+<p>
+<li> The <a href="http://www.birs.ca/events/2016/5-day-workshops/16w5095">BIRS Workshop Random Geometric Graphs and Their Applications to Complex Networks</a>, 6 - 11 November 2016 at the <a href="www.birs.ca">Banff International Research Station</a> in Banff (Canada).
+</li>
+</p>
+
+<p>
+<li>
+The third STAR Workshop on Random Graphs, 26 and 27 January 2017 in Utrecht.
+</li>
+</p>
+
+</ul>
+
+
+<b>Past</b>
+
+
+<ul>
+
+<p>
+<li>
+The conference <a href="http://www.stats.ox.ac.uk/~kang/colinworkshop/">
+"Exceptional Outcomes: A celebration of the work of Colin McDiarmid"</a>, 9-10 April 2016 in Oxford;
+</li>
+</p>
+
+<p>
+<li>
+An <a href="Afternoon">Afternoon on Probability and Combinatorics</a>, 4 December 2015.
+</li>
+</p>
+
+<p>
+<li> The workshop on <a href="http://www.lorentzcenter.nl/lc/web/2015/705/info.php3?wsid=705&venue=Oort">Logic and Random graphs</a>, 31 August - 4 September 2015, in the
+<a href="http://www.lorentzcenter.nl">Lorentz Center</a> in Leiden.
+</li>
+</p>
+
+<p>
+<li> The second <a href="http://www.math.ru.nl/~rkang/SWRG2015/">STAR workshop on Random Graphs</a>, that took place on 9 and 10 April 2015 in Nijmegen.
+</li>
+</p>
+
+<p>
+<li> The <a href="http://www.projects.science.uu.nl/swi2015/">106th European Study Group
+Mathematics with Industry</a> that took place 26 – 30 January 2015, in Utrecht. <br>
+(I was the chair of the organizing committee.)
+</li>
+</p>
+
+<p>
+<li> The <a href="OneDay">Utrecht Combinatorics Workshop</a> that took place on 7 November 2014, in Utrecht.
+</li>
+</p>
+
+<p>
+<li> The workshop <a href="http://www.lorentzcenter.nl/lc/web/2014/622/info.php3?wsid=622&venue=Oort">New Frontiers in Random Geometric Graphs</a> that took place 
+14 - 17 April 2014 at the <a href="http://www.lorentzcenter.nl">Lorentz Center</a> in Leiden.
+</li>
+</p>
+
+<p>
+<li> The <a href="http://www.eurandom.tue.nl/events/workshops/2014/Combinatorics%20and%20Probability/SAM_Combprob.html">Stochastic Acitivity Month on Combinatorics and Probability</a> that took place in January 2014, in Eindhoven. <br>
+Activities included a workshop on <a href="http://www.eurandom.tue.nl/events/workshops/2014/Combinatorics%20and%20Probability/Probability_and_Graphs.html">"Probability and Graphs"</a> and mini-courses 
+on graph limits, analysis of Boolean functions and Probabilistic aspects of Minimal Spanning Trees.
+</li>
+</p>
+
+<p>
+<li>The  <a href="http://www.staff.science.uu.nl/~Kang0002/UGW2013.html">Utrecht Graphs Workshop</a> which took place on Thursday 31 October and Friday 1 November 2013, in Utrecht.
+</li>
+</p>
+
+<p>
+<li> The first <a href="workshopRGs">STAR Workshop on Random Graphs</a> that took place on 1 and 2 November 2012, in Utrecht.
+</li>
+</p>
+
+<p>
+<li> The workshop on 
+<!--<a href="http://www.cwi.nl/~mueller/workshop.html"> Probabilistic and Algebraic Methods in Discrete Mathematics</a> -->
+Probabilistic and Algebraic Methods in Discrete Mathematics
+that took place on 6 December 2010, in Amsterdam.
+</li>
+</p>
+
+<p>
+<li> The <a href="http://www.stats.ox.ac.uk/~kang/pcc2005/information.htm">Postgraduate Combinatorial Conference 2005</a> that took place on 21-23 March 2005 in Oxford.
+</li> 
+</p>
+
+</ul>

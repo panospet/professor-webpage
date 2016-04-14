@@ -1,0 +1,14 @@
+
+<p> I am an assistant professor at the 
+<a href="http://www.uu.nl/organisatie/mathematisch-instituut">Mathematical Institute</a> of Utrecht University. Before joining Utrecht University, I held temporary positions 
+at <a href="http://www.cwi.nl/">Centrum Wiskunde & Informatica (CWI)</a>, in Eindhoven 
+and in Tel Aviv, and before that I did my doctorate in Oxford under the supervision of 
+<a href="http://www.stats.ox.ac.uk/people/academic_staff/colin_mcdiarmid">Colin McDiarmid</a>. Prior to starting my doctorate, I worked for a couple of years as a statistical consultant at <a href="http://www.candiensten.nl/home/index.php">CANdiensten b.v.</a> <br>
+My research is partially funded by an NWO VIDI grant and an NWO TOP C-2 grant from <a href="http://www.nwo.nl">Netherlands Organisation for Scientific Research (NWO)</a>. Thank you NWO!
+<!--I organize the <a href="StochSem">Stochastics Seminar</a> and I co-organize the <a href="http://www.math.uu.nl/announcements/stafcol/2014-2015/">Mathematics Colloquium</a> in Utrecht.-->
+</p>
+
+
+<p>
+<font color="blue"><b>[NEW!]</b></font> A 
+<a href="PhD">PhD position</a> is available to work with me on geometric random graphs and related percolation models.</p>

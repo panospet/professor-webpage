@@ -1,0 +1,128 @@
+
+<p>
+Some of my research projects lend themselves  well to computer experiments. 
+Here are some visualizations I did for various talks and papers. 
+All the pictures below have been generated (programmed) by me using <a href="http://www.r-project.org/">R</a>.
+</p>
+
+<b>Confetti percolation</b>
+
+<p>The confetti percolation process, sometimes also called the coloured dead leaves process, is defined as follows.
+Disks of radius one arrive onto the plane according to a constant intensity space-time <a href="http://en.wikipedia.org/wiki/Poisson_process">Poisson process</a>. The disks are coloured either black, with probability \(p\), or white, with probability \(1-p\).
+Each point of the plane assumes the colour of the first disk that lands on it.
+You can think of this as the situation where confetti disks are "raining" onto a glass plate and you are looking up from underneath the glass at the pattern you see. 
+Alternatively, you can think of disks having rained onto the ground for a very long time. Then the "confetti rain" suddenly stops and we examine the pattern that we see on the ground. <br>
+Here are simulations corresponding to \(p=\frac14,\frac12,\frac34\), where the 
+pattern inside a \(200\times200\) square is shown. </p>
+
+<center>
+<img src="Plaatjes/confetti200pkwart.png" style="width:30%;padding:1ex">
+<img src="Plaatjes/confetti200phalf.png" style="width:30%;padding:1ex">
+<img src="Plaatjes/confetti200pdriekwart.png" style="width:30%;padding:1ex">
+</center>
+
+<p>
+In 1998, Benjamini and Schramm wanted to know for which 
+values of \(p\) there will exist an unbounded curve all of whose points are black. 
+In particular they asked whether this would be the case if and only if \(p>1/2\). <br>
+In a recent paper (number 35 in my list of publications above), I proved that this is indeed the case.
+</p>
+
+<b>Random geometric graphs</b>
+
+<p>
+In the most general formulation, a random geometric graph is what you get if you take 
+a random set of points in some metric space and you join pairs of points depending on some rule (which may include additional randomness).
+A special case is the <em>Gilbert model</em> where we take \(n\) points uniformly at random in the square (or \(d\)-dimensional hypercube) and connect two points if the distance is less than \(r\).
+The model is named after E.N. Gilbert who defined a very similar model in 1961. <br>
+
+Here is a simulation with \(n=500\) points and \(r=.03, .06, .09\).
+</p>
+
+<center>
+<img src="Plaatjes/rgg1.png" style="width:30%;padding:1ex">
+<img src="Plaatjes/rgg3.png" style="width:30%;padding:1ex">
+<img src="Plaatjes/rgg2.png" style="width:30%;padding:1ex">
+</center>
+
+<p>In my previous work I have amongst other things considered the chromatic number of and Hamilton cycles in random geometric graphs.
+</p>
+
+
+
+<b>Voronoi percolation on the hyperbolic plane</b>
+
+
+<p>The Voronoi percolation model is defined as follows.
+We start with a Poisson process \({\cal P}\) of constant intensity on the plane.
+To each point \(x\in{\cal P}\) we assign a <em>Voronoi cell</em> \(C(x)\), the set of all points that are closer to \(x\) than to any other point of \(\cal P\). 
+Finally, for each Voronoi cell we flip a coin to colour it either black (blue in the picture below), with probability \(p\), or white, with probability \(1-p\). 
+A pertinent question again is for which values of \(p\) there will be unbounded black curves. Or, in other words, when is there an infinite, non-repeating sequence of black Voronoi cells, each touching the next one in the sequence? <br>
+In 2006 Bollob&aacute;s and Riordan showed that this is so if and only if \(p>1/2\).
+Earlier, Benjamini and Schramm had already considered the situation where instead of on the ordinary, Euclidean plane, we define the Voronoi percolation model on the <a href="http://en.wikipedia.org/wiki/Hyperbolic_geometry">hyperbolic plane</a>.
+Their results highlight a number of striking differences with the Euclidean case, and they also pose a number of tantalizing questions that are open to this day. <br>
+Here is a computer simulation of the hyperbolic Voronoi model
+with \(p=1/2\) and intensity \(\lambda=1\), shown in the 
+<a href="http://en.wikipedia.org/wiki/Poincaré_disk_model">Poincar&eacute; disk representation</a> of the hyperbolic plane.
+</p>
+
+<center>
+<img src="Plaatjes/Voronoi.png" style="width:60%">
+</center>
+
+<p>These simulations also featured in the <a href="Plaatjes/poster.pdf">poster</a> 
+and a <a href="Plaatjes/tshirt.jpg">t-shirt</a> we printed for the recent Lorentz Center workshop <a href="http://www.lorentzcenter.nl/lc/web/2014/622/info.php3?wsid=622&venue=Oort">New Frontiers in Random Geometric Graphs</a>. 
+(If you happen to wear XXL then you are welcome to collect a free t-shirt in my office.)<br>
+Here is another simulation of hyperbolic Voronoi percolation, now shown in the
+<a href="http://en.wikipedia.org/wiki/Poincaré_half-plane_model">Poincar&eacute; halfplane representation</a> of the hyperbolic plabe.
+
+
+<center>
+<img src="Plaatjes/Voronoi3HalfPlane.png" style="width:50%">
+</center>
+<br>
+
+
+
+
+<b>Hyperbolic Gilbert model</b>
+
+
+
+<p>In the (original, infinite) Gilbert model, we take a Poisson process \({\cal P}\) on the plane, and we create a graph by joining any two points by an edge that have distance less than \(r\).
+This of course also makes sense in the hyperbolic plane.
+Here is a computer simulation, with \(r=1\) and intensity \(\lambda=5\) 
+of the Poisson process, shown on the left in Poincar&eacute disk representation
+and on the right in the native representation.
+
+<center>
+<img src="Plaatjes/HyperRGG_N5000L5.png" style="width:40%;">
+<img src="Plaatjes/HyperRGG_nat.png" style="width:40%;">
+</center>
+<br>
+
+
+<b>The KPKVB model</b>
+
+
+<p>
+A different way of generating a random graph in hyperbolic space was introduced 
+recently by Krioukov-Papadopoulos-Kitsak-Vahdat-Bogu&ntilde;&aacute;.
+Perhaps rather surprisingly, this random graph model has features that are 
+usually attributed to complex networks, including a power law degree distribution and clustering.
+Besides the number of nodes, the model has two parameters, \(\alpha\) and \(\nu\). Roughly speaking \(\alpha\) controls  the exponent of the powerlaw and \(\nu\) controls the average degree.
+For a more detailed definition of the model see my papers with Bode and Fountoulakis above. <br>
+Here are computer simulations corresponding to 5000 nodes with \(\alpha=.9,\nu=.2\) (left) and  \(\alpha=.51,\nu=.2\) (right), shown in the native model of the hyperbolic plane.
+</p>
+
+
+<center>
+<img src="Plaatjes/KPKVB.png" style="width:40%;">
+<img src="Plaatjes/KPKVB2.png" style="width:40%;">
+</center>
+<br>
+
+<p>Together with Michel Bode and <a href="http://web.mat.bham.ac.uk/N.Fountoulakis/">Nikolaos Fountoulakis</a> I recently wrote two papers on this model.
+One on the emergence of a "giant" component, and one on the transition from a 
+disconnected to a connected graph.
+Especially in the latter work we observed behaviour that is different from all other random graph models in the literature as far as we are aware.

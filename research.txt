@@ -1,0 +1,439 @@
+<p> I work in combinatorics and probability. My research interests include 
+random graphs, percolation, discrete and stochastic geometry, random walks, random matrices, deterministic graphs in various flavours (extremal, coloured, fractional), asymptotic and probabilistic combinatorics and combinatorial games. <br>
+The following is a list of my journal articles, with links to preprint versions in pdf format. 
+</p>
+
+<ol>
+
+<p>
+<li>	T. M&uuml;ller, 
+<a href="Papers/twopoint.pdf" target="_top">Two point concentration in random geometric graphs</a>, 
+Combinatorica, Volume 28, Issue 5, Pages 529-545;<span class="readmore">[+]</span></p>
+<div class="full-article">
+A random geometric graph \(G_n\) is constructed by taking vertices \(X_1, \dots, X_n \in {\mathbb R}^d\) at random (i.i.d. according to some probability distribution \(\nu\) 
+with a bounded density function) and including an edge between \(X_i\) and 
+\(X_j\) if \(|Xi − Xj| < r\) where \(r = r(n) > 0\). 
+We prove a conjecture of Penrose stating that when \(r = r(n)\) is chosen such that 
+\(nr^d = o(\ln n)\) then the probability distribution of the clique number \(\omega(G_n)\) becomes concentrated on two consecutive integers and we show that the same holds for a number of other graph parameters including the chromatic number \(\chi(G_n)\). </div>
+</li>
+
+
+<p>
+<li>
+T. M&uuml;ller, R.J. Waters,
+<a href="Papers/cchinQ.pdf" target="_top">Circular choosability is rational</a>,
+Journal of Combinatorial Theory series B, Volume 99, Issue 5, Pages 801-813;
+<span class="readmore">[+]</span></p>
+<div class="full-article">
+The circular choosability or circular list chromatic number of a graph is a list-version of the circular chromatic number, introduced by Mohar and studied by several other groups of authors. One of the nice properties that the circular chromatic number enjoys is that it is a rational number for all finite graphs G, and a fundamental question, posed by Zhu and reiterated by several others, is whether the same holds for the circular choosability. In this paper we show that this is indeed the case.
+</li>
+
+
+
+<p>
+<li>
+R.W. van der Hofstad, W. Kager, T. M&uuml;ller, 
+<a href="Papers/LocLimThmERRGfin.pdf" target="_top">A local limit theorem for the critical random graph</a>,
+Electronic Communications in Probability, Volume 14, Pages 122-131;
+<span class="readmore">[+]</span></p>
+<div class="full-article">
+We consider the limit distribution of the orders of the k largest components in the Erd&ouml;s-R&eacute;nyi random graph inside the “critical window” for arbitrary k. We prove a local limit theorem for this joint distribution and derive an exact expression for the joint probability density function.
+</li>
+
+<p>
+<li>
+J. Balogh, B. Bollob&aacute;s, M. Krivelevich, T. M&uuml;ller, M. Walters,
+<a href="Papers/BBKMW.pdf" target="_top">Hamilton cycles in random geometric graphs</a>, 
+Annals of Applied Probability, Volume 21, Issue 3, Pages 1053-1072. <br>
+(<a href="Papers/HamiltonRGG.pdf" target="_top">A preprint</a> - with only one coauthor -
+on the arxiv.);
+<span class="readmore">[+]</span></p>
+<div class="full-article">
+We prove that, in the Gilbert model for a random geometric graph, almost every graph becomes Hamiltonian exactly when it first becomes 2-connected. This answers a question of Penrose.We also show that in the k-nearest neighbour model, there is a constant κ such that almost every κ-connected graph has a Hamilton cycle.
+</li>
+
+
+<p>
+<li>
+M. Basavaraju, L.S. Chandran, N. Cohen, F. Havet, T. M&uuml;ller,
+<a href="Papers/BCCHM.pdf" target="_top">Acyclic edge-colouring of planar graphs</a>, SIAM journal on discrete mathematics, Volume 25, Issue 2, Pages 463-478. <br>
+(Preliminary version - with only two coauthors - in Eurocomb 2009);
+<span class="readmore">[+]</span></p>
+<div class="full-article">
+A proper edge-colouring with the property that every cycle contains edges of at least three distinct colours is called an acyclic edge-colouring. The acyclic chromatic index of a graph \(G\), denoted \(\chi_a'(G)\), is the minimum k such that G admits an acyclic edge-colouring with k colours. We conjecture that if \(G\) is planar and \(\Delta(G)\) is large enough then \(\chi_a'(G) = \Delta(G)\). 
+We settle this conjecture for planar graphs with girth at least 5. 
+We also show that \(\chi_a'(G) ≤ \Delta(G) + 12\) for all planar \(G\), which improves a previous result by Fiedorowicz et al.
+</li>
+
+
+<p>
+<li>	R.A. Hauser, T. M&uuml;ller, 
+<a href="Papers/conic.pdf" target="_top">Conditioning of random conic systems under a general family of input distributions</a>, 
+Foundations of Computational Mathematics, Volume 9, Issue 3, Pages 335-358.
+<br> 
+(<a href="Papers/conictech.pdf">A preprint version</a> in the Oxford University Numerical Analysis techreport series - with some results that did not make it to the
+final version.);
+<span class="readmore">[+]</span></p>
+<div class="full-article">
+We consider the conic feasibility problem associated with the linear homogeneous system 
+\(Ax \leq 0, x\neq 0\). The complexity of iterative algorithms for solving this problem depends on a condition number \({\cal C}(A)\). When studying the typical behaviour of algorithms under stochastic input one is therefore naturally led to investigate the fatness of the tails of the distribution of \({\cal C}(A)\). Introducing the very general class of uniformly absolutely continuous probability models for the random matrix \(A\), we show that the distribution tails of \({\cal C}(A)\) decrease at algebraic rates, both for the Goffin-Cheung-Cucker number \({\cal C}_G\) and the Renegar number \({\cal C}_R\). The exponent that drives the decay arises naturally in the theory of uniform absolute continuity, which we also develop in this paper. In the case of CG we also discuss lower bounds on the tail probabilities and show that there exist absolutely continuous input models for which the tail decay is subalgebraic.
+</li>
+
+<p>
+<li>
+L. Addario-Berry, R.J. Kang, T. M&uuml;ller,
+<a href="Papers/acyclic.pdf" target="_top">Acyclic dominating partitions</a>,
+Journal of Graph Theory, Volume 64, Issue 5, Pages 292-311;
+<span class="readmore">[+]</span></p>
+<div class="full-article">
+Given a graph \(G = (V,E)\), let \(P\) be a partition of \(V\). We say that \(P\) is dominating if, for each part \(P\) of \(P\), the set \(V \setminus P\) is a dominating set in \(G\) (equivalently, if every vertex has a neighbour of a different colour from its own). We say that \(P\) is acyclic if for any parts \(P,P′\) of \(P\), the bipartite subgraph \(G[P,P′]\) consisting of the edges between \(P\) and \(P′\) in \(P\) contains no cycles. The acyclic dominating number \(\text{ad}(G)\) of \(G\) is the least number of parts in any partition of \(V\) that is both acyclic and dominating; and we shall denote by \(\text{ad}(d)\) the maximum over all graphs \(G\) of maximum degree at most \(d\) 
+of \(\text{ad}(G)\). In this paper, we prove that \(\text{ad}(3) = 2\), which establishes a conjecture of Boiron, Sopena and Vignal. For general \(d\), we prove the upper bound \(\text{ad}(d) = O(d \ln d)\) and a lower bound of \(\text{ad}(d) = \Omega(d)\).
+</li>
+
+
+
+<p>
+<li>
+R.J. Kang, T. M&uuml;ller,
+<a href="Papers/frugal.pdf" target="_top">Frugal, acyclic and star colourings of graphs</a>,
+Discrete Applied Mathematics, Volume 159, Issue 16, Pages 1806-1814;
+<span class="readmore">[+]</span></p>
+<div class="full-article">
+Given a graph \(G = (V, E)\), a vertex colouring of \(V\) is \(t\)-frugal if no colour appears more than \(t\) times in any neighbourhood and is acyclic if each of the bipartite graphs consisting of the edges between any two colour classes is acyclic. For graphs of bounded maximum degree, Hind, Molloy and Reed studied proper \(t\)-frugal colourings and Yuster studied acyclic proper 2-frugal colourings. In this paper, we expand and generalise this study.
+</li>
+
+<p>
+<li>
+M. Bradonjic, T. M&uuml;ller, A. G. Percus,
+<a href="Papers/GTG.pdf" target="_top">Coloring geographical threshold graphs</a>,
+Discrete Mathematics & Theoretical Computer Science, Vol 12, No 3, Pages 103-114;
+<span class="readmore">[+]</span></p>
+<div class="full-article">
+We propose a coloring algorithm for sparse random graphs generated by the geographical thresholdgraph (GTG) model, a generalization of random geometric graphs (RGG). In a GTG, nodes are distributed in a Euclidean space, and edges are assigned according to a threshold function involving the distance between nodes as well as randomly chosen node weights. The motivation for analyzing thismodel is that many real networks (e.g., wireless networks, the Internet, etc.) need to be studied by usinga “richer” stochastic model (which in this case includes both a distance between nodes and weights on thenodes). Here, we analyze the GTG coloring algorithm together with the graph’s clique number, showingformally that in spite of the differences in structure between GTG and RGG, the asymptotic behaviorof the chromatic number is identical: \(\chi = \ln n (1 + 𝑜(1))\). Finally, we consider the leading corrections \(\ln\ln n\) to this expression, again using the coloring algorithm and clique number to provide bounds on the chromatic number. We show that the gap between the lower and upper bound is within \(C \ln n / (\ln \ln n)^2\), and specify the constant \(C\).
+</li>
+
+<p>
+<li>
+T. M&uuml;ller, A. P&oacute;r, J.-S. Sereni,
+<a href="Papers/boundary4.pdf" target="_top">Graphs with four boundary vertices</a>, Electronic journal of Combinatorics, Volume 18, Issue 1, Paper 11, 18 pages;
+<span class="readmore">[+]</span></p>
+<div class="full-article">
+A vertex \(v\) of a graph G is a boundary vertex if there exists a vertex \(u\) such that the distance in \(G\) from \(u\) to \(v\) is at least the distance from \(u\) to any neighbour of \(v\). We give a full description of all graphs that have exactly four boundary vertices, which answers a question of Hasegawa and Saito. To this end, we introduce the concept of frame of a graph. It allows us to construct, for every positive integer \(b\) and every possible “distance-vector” between b points, a graph \(G\) with exactly \(b\) boundary vertices such that every graph with b boundary vertices and the same distance-vector between them is an induced subgraph of G.
+</li>
+
+
+<p><li>	F. Havet, R.J. Kang, T. M&uuml;ller, J.-S. Sereni, 
+<a href="Papers/cch.pdf" target="_top">Circular choosability</a>, Journal of Graph Theory, Volume 61, Issue 4 , Pages 241 - 270;
+<span class="readmore">[+]</span></p>
+<div class="full-article">
+We study circular choosability, a notion recently introduced by Mohar and by Zhu. First, we provide a negative answer to a question of Zhu about circular cliques. We next prove that \(\text{cch}(G) = O(\text{ch}(G) + \ln |V (G)|)\) for every graph \(G\). 
+We investigate a generalisation of circular choosability, the circular \(f\)-choosability, where \(f\) is a function of the degrees. We also consider the circular choice number of planar graphs. Mohar asked for the value of \(\tau := \sup\{\text{cch}(G) : G\text{ is planar}\}\), and we prove that \(6 \leq \tau \leq 8\), thereby providing a negative answer to another question of Mohar. We also study the circular choice number of planar and outerplanar graphs with prescribed girth, and graphs with bounded density.
+</li>
+
+
+<p> <li> T. M&uuml;ller, A. P&oacute;r, J.-S. Sereni,
+<a href="Papers/bounding.pdf" target="_top">Bounding the boundary by the minimum and the maximum degree</a>, Discrete Mathematics, Volume 308, Issue 24, Pages 6581-6583;
+<span class="readmore">[+]</span></p>
+<div class="full-article">
+A vertex \(v\) of a graph \(G\) is a boundary vertex if there exists a vertex \(u\) such that the distance in \(G\) from \(u\) to \(v\) is at least the distance from \(u\) to any neighbour of \(v\). 
+We give the best possible lower bound, up to a constant factor, on the number of boundary vertices of a graph in terms of its minimum degree (or maximum degree). This settles a problem introduced by Hasegawa and Saito.
+</li>
+
+<p> 
+<li>    T. M&uuml;ller, J.-S. Sereni,
+<a href="Papers/identifying.pdf" target="_top">Identifying and locating-dominating codes in (random) geometric networks</a>, Combinatorics, Probability and Computing, Volume 18, Issue 6, Pages 925-952;
+<span class="readmore">[+]</span></p>
+<div class="full-article">
+We model a problem about networks built from wireless devices using identifying andlocating-dominating codes in unit disk graphs. It is known that minimising the size ofan identifying code is NP-complete even for bipartite graphs. First, we improve thisresult by showing that the problem remains NP-complete for bipartite planar unitdisk graphs. Then, we address the question of the existence of an identifying code forrandom unit disk graphs. We derive the probability that there exists an identifyingcode as a function of the radius of the disks and we find that for all interestingranges of r this probability is bounded away from one. The results obtained arein sharp contrast with those concerning random graphs in the Erd&ouml;s-R&eacute;nyi model.Another well-studied class of codes are locating-dominating codes, which are lessdemanding than identifying codes. A locating-dominating code always exists, butminimising its size is still NP-complete in general. We extend this result to oursetting by showing that this question remains NP-complete for arbitrary planar unitdisk graphs. Finally, we study the minimum size of such a code in random unit diskgraphs, and we prove that with probability tending to one, it is of size \((\frac{n}{r})^{2/3+o(1)}\)if \(r\) is chosen such that \(nr^2 \to \infty\) and of size \(n^{1+o(1)}\) if \(nr^2 \ll \ln n\). 
+</li>
+
+<p>
+<li>	R.J. Kang, T. M&uuml;ller, J.-S. Sereni, 
+<a href="Papers/improper.pdf" target="_top">Improper colouring of (random) unit disk graphs</a>, 
+Discrete Mathematics, Volume 308, Issue 8<!--(special issue devoted to EuroComb'05)-->, Pages 1438-1454;
+<span class="readmore">[+]</span></p>
+<div class="full-article">
+For any graph G, the \(k\)-improper chromatic number \(\chi^k(G)\) is the smallest 
+number of colours used in a colouring of \(G\) such that each colour class induces a subgraph of maximum degree \(k\). We investigate \(\chi^k\) for unit disk graphs and random unit disk graphs to generalise results of McDiarmid, McDiarmid and Reed and McDiarmid and M&uuml;ller.
+</li>
+
+<p>
+<li>
+T. M&uuml;ller, X. P&eacute;rez-Gim&eacute;nez, N. Wormald,  
+<a href="Papers/MPW.pdf" target="_top">Disjoint Hamilton cycles in the random geometric graph</a>,
+Journal of Graph Theory, Volume 68, Issue 4, pages 299–322;
+<span class="readmore">[+]</span></p>
+<div class="full-article">
+We consider the standard random geometric graph process in which \(n\) vertices are placed at random on the unit square and edges are sequentially added in increasing order of edge-length. For fixed \(k \geq 1\), we prove that the first edge in the process that creates a \(k\)-connected graph coincides a.a.s. with the first edge that causes the graph to contain \(k/2\) pairwise edge-disjoint Hamilton cycles (for even \(k\)), or \((k − 1)/2\) Hamilton cycles plus one perfect matching, all of them pairwise edge-disjoint (for odd \(k\)). This proves and extends a conjecture of Krivelevich and M&uuml;ller. In the special when case \(k = 2\), our result says that the first edge that makes the random geometric graph Hamiltonian is a.a.s. exactly the same one that gives 2-connectivity, which answers a question of Penrose. We prove our results with lengths measured using the \(\ell_p\)-norm for any \(p > 1\), and we also extend our result to higher dimensions.
+</li>
+
+<p>
+<li>
+R.J. Kang, L. Lov&aacute;sz, T. M&uuml;ller, E.R. Scheinerman,
+<a href="Papers/dotproductPlanar.pdf" target="_top">Dot product representations of planar graphs</a>, Electronic Journal of Combinatorics, Volume 18, Issue 1, Paper 216, 14 pages. <br>
+(<a href="Papers/dotproductPlanarGD.pdf">preliminary version</a> - with only one co-author - in GD 2010);
+<span class="readmore">[+]</span></p>
+<div class="full-article">
+A graph \(G\) is a \(k\)-dot product graph if there exists a vector labelling \(u : V (G) \to {\mathbb R}^k\) such that \(u(i)^Tu(j) \geq 1\) if and only if \(ij \in E(G)\). Fiduccia, Scheinerman, Trenk and Zito asked whether every planar graph is a 3-dot product graph. We show that the answer is “no”. On the other hand, every planar graph is a 4-dot product graph. We also answer the corresponding questions for planar graphs of prescribed girth and for outerplanar graphs.
+</li>
+
+
+<p>
+<li>	C.J.H. McDiarmid, T. M&uuml;ller, 
+<a href="Papers/rgg.pdf" target="_top">On the chromatic number of random geometric graphs</a>, 
+Combinatorica, Volume 31, Number 4, Pages 423-488;
+<span class="readmore">[+]</span></p>
+<div class="full-article">
+Given independent random points \(X_1, \dots, X_n \in {\mathbb R}^d\) with common probabilitydistribution \(\nu\), and a positive distance \(r = r(n) > 0\), we construct a random geometricgraph \(G_n\) with vertex set \(\{1, . . . , n\}\) where distinct \(i\) and \(j\) are adjacent when \(|X_i −X_j| \leq r\). Here \(|.|\) may be any norm on \({\mathbb R}^d\), and \(\nu\) may be any probability distributionon \({\mathbb R}^d\) with a bounded density function. 
+We consider the chromatic number \(\chi(G_n)\)of \(G_n\) and its relation to the clique number \(\omega(G_n)\) as \(n \to \infty\). 
+Both McDiarmid and Penrose considered the range of \(r\) when 
+\(r \ll (\frac{\ln n}{n})^{1/d}\) and the range when \(n\)\(r \gg (\frac{\ln n}{n})^{1/d}\), and their results showed a dramatic difference between these two cases. Here we sharpen and extend the earlier results, and in particular we consider the ‘phase change’ range when \(r \sim (\frac{t \ln n}{n} )^{1/d}\) with \(t > 0\) a fixed constant. Both McDiarmidand Penrose asked for the behaviour of the chromatic number in this range. 
+We determine constants \(c(t)\) such that \(\frac{\chi(G_n)}{n r^d} \to c(t)\) almost surely. 
+Further, we find a “sharp threshold” (except for less interesting choices of the norm when the unit ball tiles \(d\)-space): there is a constant \(t_0 > 0\) such that if \(t \leq t_0\) then \(\frac{\chi(G_n)}{\omega(G_n)}\) tends to 1 almost surely, but if \(t > t_0\) then \(\chi(G_n)\) tends to a limit > 1 almost surely.
+</li>
+
+<p>
+<li>
+R.J. Kang, T. M&uuml;ller,
+<a href="Papers/SphericityDotproduct.pdf" target="_top">Sphere and dot product 
+representations of graphs</a>, Discrete and Computational Geometry, Volume 47, Number 3, Pages 548-568. <br>
+(Preliminary version in SoCG 2011);
+<span class="readmore">[+]</span></p>
+<div class="full-article">
+A graph \(G\) is a \(k\)-sphere graph if there are \(k\)-dimensional real vectors \(v_1,\dots,v_n\) such that \(ij \in E(G)\) if and only if the distance between \(v_i\) and \(v_j\) is at most 1. 
+A graph G is a \(k\)-dot product graph if there are \(k\)-dimensional real vectors \(v_1, \dots, v_n\) such that \(ij \in E(G)\) if and only if the dot product of \(v_i\) and \(v_j\) is at least 1.By relating these two geometric graph constructions to oriented \(k\)-hyperplane arrangements, we prove that the problems of deciding, given a graph \(G\), whether \(G\) is a \(k\)-sphere or a \(k\)-dot product graph are NP-hard for all \(k > 1\). In the former case, this proves a conjecture of Breu and Kirkpatrick (Comput. Geom. 9:3–24, 1998). In the latter, this answers a question of Fiduccia et al. (Discrete Math. 181:113–138, 1998).Furthermore, motivated by the question of whether these two recognition problems are in NP, as well as by the implicit graph conjecture, we demonstrate that, for all \(k > 1\), there exist \(k\)-sphere graphs and \(k\)-dot product graphs such that each representation in \(k\)-dimensional real vectors needs at least an exponential number of bits to be stored in the memory of a computer. On the other hand, we show that exponentially many bits are always enough. This resolves a question of Spinrad (Efficient Graph Representations, 2003)
+</li>
+
+<p>
+<li>	A. Beveridge, A. Dudek, A. Frieze, T. M&uuml;ller, 
+<a href="Papers/geocops.pdf" target="_top">Cops and robbers on geometric graphs</a>, 
+Combinatorics, Probability and Computing, Volume 21, Issue 06, Pages 816-834;
+<span class="readmore">[+]</span></p>
+<div class="full-article">
+Cops and robbers is a turn-based pursuit game played on a graph \(G\). One robber is pursued by a set of cops. In each round, these agents move between vertices along the edges of the graph. The cop number \(c(G)\) denotes the minimum number of cops required to catch the robber in finite time. We study the cop number of geometric graphs. For points \(x_1, \dots, x_n \in {\mathbb R}^2\), and \(r \in {\mathbb R}_+\), the vertex set of the geometric graph \(G(x_1,\dots, x_n; r)\) is the graph on these \(n\) points, 
+with \(x_i, x_j\) adjacent when \(|x_i − x_j| \leq r\). We prove that \(c(G) ≤ 9\) for any connected geometric graph \(G\) in \({\mathbb R}^2\) and we give an example of a connected geometric graph with \(c(G) = 3\). We improve on our upper bound for random geometric graphs that are sufficiently dense. Let \(G(n,r)\) denote the probability space of geometric graphs with \(n\) vertices chosen uniformly and independently from \([0,1]^2\). For \(G \in G(n,r)\), we show that with high probability (whp), if \(r \geq K_1(\log n/n)^{1/4}\), then \(c(G) \leq 2\), and if \(r \geq K_2(\log n/n)^{1/5}\),then \(c(G) = 1\) where \(K_1,K_2 > 0\) are absolute constants. Finally, we provide a lower bound near the connectivity regime of \(G(n, r)\): if \(r ≤ K_3 \log n/ \sqrt{n}\) then \(c(G) > 1\) whp, where \(K_3 > 0\) is an absolute constant.
+</li>
+
+
+<p>
+<li>
+R.J. Kang, M. Mnich, T. M&uuml;ller,
+<a href="Papers/KMM.pdf" target="_top">Induced matchings in subcubic planar graphs</a>, SIAM Journal on Discrete Mathematics, Volume 26, Issue 3, Pages 1383–1411. <br>
+(preliminary version in ESA 2010);
+<span class="readmore">[+]</span></p>
+<div class="full-article">
+We present a linear-time algorithm that, given a planar graph with \(m\) edges and maximum degree 3, finds an induced matching of size at least \(m/9\). This is best possible.
+</li>
+
+<p>
+<li>
+C.J.H. McDiarmid, T. M&uuml;ller,
+<a href="Papers/IntegerDiskSeg.pdf" target="_top">Integer realizations of disk 
+and segment graphs</a>, Journal of Combinatorial Theory Series B, 
+Volume 103, Issue 1, Pages 114–143. <br>
+(<a href="Papers/DGsBitSizeWG.pdf">Preliminary version</a> in WG 2010);
+<span class="readmore">[+]</span></p>
+<div class="full-article">
+A disk graph is the intersection graph of disks in the plane, a unit disk graph is the intersection graph of same radius disks in the plane, and a segment graph is an intersection graph of line segments in the plane. Every disk graph can be realized by disks with centers on the integer grid and with integer radii; and similarly every unit disk graph can be realized by disks with centers on the integer grid and equal (integer) radius; and every segment graph can be realized by segments whose endpoints lie on the integer grid. Here we show that there exist disk graphs on \(n\) vertices such that in every realization by integer disks at least one coordinate or radius is \(2^{2^{\Omega(n)}}\) and on the other hand every disk graph can be realized by disks with integer coordinates and radii that are at most \(2^{2^{O(n)}}\) ; and we show the analogous results for unit disk graphs and segment graphs. For (unit) disk graphs this answers a question of Spinrad, and for segment graphs this improves over a previous result by Kratochvil and Matousek.
+</li>
+
+
+<p>
+<li>
+T. M&uuml;ller, E. J. van Leeuwen, J. van Leeuwen,
+<a href="Papers/Polygons.pdf" target="_top">Integer Representations of Convex 
+Polygon Intersection Graphs</a>, 
+SIAM Jounal on Discrete Mathematics, Volume 27, Issue 1, Pages 205–231. <br>
+(Preliminary version in SoCG 2011);
+<span class="readmore">[+]</span></p>
+<div class="full-article">
+We determine tight bounds on the smallest size integer grid needed to represent the \(n\)-node intersection graphs of a convex polygon \(P\), with \(P\) given in rational coordinates. The intersection graphs only use polygons that are geometrically similar to \(P\) (translates or homothets) and must be represented such that each corner of each polygon lies on a point of the grid. We show the following generic results: <br>- if \(P\) is a parallelogram and only translates of \(P\) are used, then a \(\Omega(n^2) \times \Omega(n^2)\) grid is sufficient, and needed for some graphs. <br>- if \(P\) is any other convex polygon and only translates of \(P\) are used, then a 
+\(2^{\Omega(n)}\times 2^{\Omega(n)}\) grid is sufficient, and needed for some graphs. <br>- if \(P\) is any convex polygon and arbitrary homothets of \(P\) are allowed, then a \(2^{\Omega(n)}\times 2^{Omega(n)}\) grid is sufficient, and needed for some graphs. <br>The results substantially improve earlier bounds, and settle the complexity of representing convex polygon intersection graphs. The results also imply small polynomial certificates for the recognition problem for all graph classes considered.
+</li>
+
+<p>
+<li>
+C.J.H. McDiarmid, T. M&uuml;ller,
+<a href="Papers/countingDGsFinal.pdf" target="_top">The number of disk graphs</a>, European Journal of Combinatorics, Volume 35, Pages 413–431;
+<span class="readmore">[+]</span></p>
+<div class="full-article">
+A disk graph is the intersection graph of disks in the plane, and a unit disk graph is the intersection graph of unit radius disks in the plane. We give upper and lower bounds on the number of labelled unit disk and disk graphs on \(n\) vertices. We show that the number of unit disk graphs on \(n\) vertices is \(n^{2n} \cdot \alpha(n)^n\) and the number of disk graphs on n vertices is \(n^{3n} \cdot \beta(n)^n\), where \(\alpha(n)\) and \(\beta(n)\) are \(\Theta(1)\). We conjecture that there exist constants \(\alpha,\beta\) such that the number of unit disk graphs is \(n^{2n} \cdot (\alpha + o(1))^n\) and the number of disk graphs is \(n^{3n} \cdot (\beta + o(1))^n\).
+</li>
+
+<p>
+<li>	T. M&uuml;ller, 
+<a href="Papers/GrunbaumConjecture.pdf">A counterexample to a conjecture of Gr&uuml;nbaum on piercing convex sets in the plane</a>, 
+Discrete Mathematics, Volume 313, Issue 24, Pages 2868–2871;
+<span class="readmore">[+]</span></p>
+<div class="full-article">
+A collection of sets \(\cal F\) has the \((p,q)\)-property if out of every \(p\) elements of \(\cal F\) there are \(q\) that have a point in common. A transversal of a collection of sets \(\cal F\) is a set \(A\) that intersects every member of \(\cal F\). Gr&uuml;nbaum conjectured that every family \(\cal F\) of closed, convex sets in the plane with the \((4, 3)\)-property and at least two elements that are compact has a transversal of bounded cardinality. Here we construct a counterexample to his conjecture. On the positive side, we also show that if such a collection \(\cal F\) contains two disjoint compacta then there is a transveral of cardinality at most 13.
+</li>
+
+<p>
+<li>
+R.J. Kang, T. M&uuml;ller,
+<a href="Papers/PseudoCircles.pdf" target="_top">Arrangements of pseudocircles and circles</a>, Discrete and Computational Geometry, Volume 51, Issue 4, Pages 896-925;
+<span class="readmore">[+]</span></p>
+<div class="full-article">
+An arrangement of pseudocircles is a finite collection of Jordan curves in the plane with the additional properties that (i) every two curves meet in at most two points; and (ii) if two curves meet in a point \(p\), then they cross at \(p\).We say that two arrangements \({\cal C} = (c_1,\dots,c_n)\) and \({\cal D} = (d_1,\dots,d_n)\) are equivalent if there is a homeomorphism \(\varphi\) of the plane onto itself such that \(\varphi[c_i] = d_i\) for all \(i \in \{1, \dots , n\}\). Linhart and Ortner (2005) gave an example of an arrangement of five pseudocircles that is not equivalent to an arrangement of circles, and they conjectured that every arrangement of at most four pseudocircles is equivalent to an arrangement of circles. Here we prove their conjecture.We consider two related recognition problems. The first is the problem of deciding, given a (combinatorial description of a) pseudocircle arrangement, whether it is equivalent to an arrangement of circles. The second is deciding whether it is equivalent to an arrangement of convex pseudocircles. We prove that both problems are NP-hard, answering questions of Bultena, Gr&uuml;nbaum and Ruskey (1998) and of Linhart and Ortner (2008).We also give an example of an arrangement of convex pseudocircles with the property that its intersection graph (i.e. the graph with one vertex for each pseudocircle and an edge between two vertices if and only if the corresponding pseudocircles intersect) cannot be realised as the intersection graph of a family of circles. This disproves a folklore conjecture communicated to us by Pyatkin.
+</li>
+
+
+<p>
+<li>	T. M&uuml;ller, M. Stojakovic,
+<a href="Papers/MStoj.pdf" target="_top">A threshold for the Maker-Breaker Clique game</a>, 
+Random Structures and Algorithms, Volume 45, Issue 2, Pages 318-341;
+<span class="readmore">[+]</span></p>
+<div class="full-article">
+We study the Maker-Breaker \(k\)-clique game played on the edge set of the random graph \(G(n,p)\). In this game, two players, Maker and Breaker, alternately claim unclaimed edges of \(G(n, p)\), until all the edges are claimed. Maker wins if he claims all the edges of a \(k\)-clique; Breaker wins otherwise. We determine that the thresholdfor the graph property that Maker can win this game is at \(n^{−2/(k+1)}\), for all 
+\(k > 3\), thus proving a conjecture of Stojakovic and Szabo. 
+More precisely, we conclude that there existconstants \(c, C > 0\) such that when \(p > C n^{−2/(k+1)}\) the game is Maker’s win a.a.s., and when \(p < cn^{−2/(k+1)}\) it is Breaker’s win a.a.s.For the triangle game, when \(k = 3\), we give a more precise result, describing the hitting time of Maker’s win in the random graph process. We show that, with high probability, Maker can win the triangle game exactly at the time when a copy of \(K_5\) with one edge removed appears in the random graph process. As a consequence, we are able to give an expression for the limiting probability of Maker’s win in the triangle game played on the edge set of \(G(n, p)\).
+</li>
+
+
+
+<p>
+<li>
+A. Beveridge, A. Dudek, A. Frieze, T. M&uuml;ller, M. Stojakovic,
+<a href="Papers/MakerBreakerRGG.pdf" target="_top">Maker-Breaker games on random geometric graphs</a>, Random Structures and Algorithms, Volume 45, Issue 4, Pages 553–607;
+<span class="readmore">[+]</span></p>
+<div class="full-article">
+In a Maker-Breaker game on a graph \(G\), Breaker and Maker alternately claim edges of \(G\). Maker wins if, after all edges have been claimed, the graph induced by his edges has some desired property. We consider four Maker-Breaker games played on random geometric graphs. For each of our four games we show that if we add edges between \(n\) points chosen uniformly at random in the unit square by order of increasing edge-length then, with probability tending to one as \(n\to\infty\), the graph becomes Maker-win the very moment it satisfies a simple necessary condition. In particular, with high probability, Maker wins the connectivity game as soon as the minimum degree is at least two; Maker wins the Hamilton cycle game as soon as the minimum degree is at least four; Maker wins the perfect matching game as soon as the minimum degree is at least two and every edge has at least three neighbouring vertices; and Maker wins the H-game as soon as there is a subgraph from a finite list of “minimal graphs”. These results also allow us to give precise expressions for the limiting probability that \(G(n, r)\) is Maker-win in each case, where \(G(n, r)\) is the graph on n points chosen uniformly at random on the unit square with an edge between two points if and only if their distance is at most \(r\).
+</li>
+
+
+
+<p>
+<li>
+R.J. Kang, T. M&uuml;ller, D.B. West, 
+<a href="Papers/KMW.pdf" target="_top">On r-dynamic coloring of grids</a>, Discrete Applied Mathematics, Volume 186, Pages 286–290;
+<span class="readmore">[+]</span></p>
+<div class="full-article">
+An \(r\)-dynamic \(k\)-coloring of a graph G is a proper \(k\)-coloring of \(G\) such that every vertex in \(V(G)\) has neighbors in at least \(\min\{d(v),r\}\) different color classes. The \(r\)-dynamic chromatic number of a graph \(G\), written \(\chi_r(G)\), is the least \(k\) such that \(G\) has such a coloring. Proving a conjecture of Jahanbekam, Kim, O, and West, we show that the \(m\)-by-\(n\) grid has no 3-dynamic 4-coloring when 
+\(mn \equiv 2 \text{mod} 4\). This completes the determination of the \(r\)-dynamic chromatic number of the \(m\)-by-\(n\) grid for all \(r,m,n\).
+</li>
+
+<p>
+<li>
+T. M&uuml;ller, P. Pralat,
+<a href="Papers/MullerPralat4.pdf" target="_top">The acquaintance time of (percolated) random geometric graphs</a>, European Journal of Combinatorics, Volume 48, Pages 198–214;
+<span class="readmore">[+]</span></p>
+<div class="full-article">
+In this paper, we study the acquaintance time \(\text{AC}(G)\) defined for a connected graph \(G\). We focus on \(G(n, r, p)\), a random subgraph of a random geometric graph in which \(n\) vertices are chosen uniformly at random and independently from \([0, 1]^2\), and two vertices are adjacent with probability \(p\) if the Euclidean distance between them is at most \(r\). We present asymptotic results for the acquaintance time of \(G(n,r,p)\) for a wide range of \(p = p(n)\) and \(r = r(n)\). In particular, we show that with high probability \(\text{AC}(G) = \Theta(r^{-2})\) for \(G \in G(n, r, 1)\), the “ordinary” random geometric graph, provided that \(\pi nr^2 − \ln n \to \infty\) (that is, above the connectivity threshold). For the percolated random geometric graph \(G \in G(n, r, p)\), we show that with high probability \(\text{AC}(G) = \Theta(r^{−2}p^{−1}\ln n)\), provided that \(pnr^2 \geq n^{1/2+\varepsilon}\) and \(p<1−\varepsilon\) for some 
+\(\varepsilon >0\).
+</li>
+
+
+<p>
+<li>
+M. Bode, N. Fountoulakis, T. M&uuml;ller, 
+<a href="Papers/BFM_giant.pdf" target="_top">On the largest component of a hyperbolic model of complex networks</a>, Electronic Journal of Combinatorics, Volume 22, Issue 3, Paper P3.24, 43 pages; 
+<span class="readmore">[+]</span></p>
+<div class="full-article">
+We consider a model for complex networks that was introduced by Krioukov et al. In this model, \(N\) points are chosen randomly inside a disk on the hyperbolic plane and any two of them are joined by an edge if they are within a certain hyperbolic distance. The N points are distributed according to a quasi-uniform distribution, which is a distorted version of the uniform distribution. The model turns out to behave similarly to the well- known Chung-Lu model, but without the independence between the edges. Namely, it exhibits a power-law degree sequence and small distances but, unlike the Chung-Lu model and many other well-known models for complex networks, it also exhibits clustering.The model is controlled by two parameters \(\alpha\) and \(\nu\) where, roughly speaking, α controls the exponent of the power-law and ν controls the average degree. The present paper focuses on the evolution of the component structure of the random graph. We show that (a) for \(\alpha>1\) and \(\nu\) arbitrary, with high probability, as the number of vertices grows, the largest component of the random graph has sublinear order; (b) for \(\alpha < 1\) and \(\nu\) arbitrary with high probability there is a “giant” component of linear order, and (c) when \(\alpha=1\) then there is a non-trivial phase transition for the existence of a linear-sized component in terms of \(\nu\).
+</li>
+
+
+<p>
+<li>
+A. Li, T. M&uuml;ller, P. Pralat, 
+<a href="Papers/percogeocops.pdf" target="_top">Chasing robbers on percolated random geometric graphs</a>, Contributions to Discrete Mathematics, Volume 10, Issue 1, 10 Pages; 
+<span class="readmore">[+]</span></p>
+<div class="full-article">
+In this paper, we study the vertex pursuit game of Cops and Robbers, in which cops try to capture a robber on the vertices of a graph. The minimum number of cops required to win on a given graph G is called the cop number of \(G\). We focus on \(G(n,r,p)\), a percolated random geometric graph in which \(n\) vertices are chosen uniformly at random and independently from \([0,1]^2\). Two vertices are adjacent with probability \(p\) if the Euclidean distance between them is at most \(r\). If the distance is bigger then \(r\) then they are never adjacent. We present asymptotic results for the game of Cops and Robber played on \(G(n,r,p)\) for a wide range of \(p = p(n)\) and \(r = r(n)\).
+</li>
+
+
+<p>
+<li>
+T. M&uuml;ller, R. Sp&ouml;hel,
+<a href="Papers/MullerSpoehel.pdf" target="_top">A geometric Achlioptas process</a>, Annals of Applied Probability, Volume 25, Issue 6, Pages 3295-3337;
+<span class="readmore">[+]</span></p>
+<div class="full-article">
+The random geometric graph is obtained by sampling \(n\) points from the unit square (uniformly at random and independently), and connecting two points whenever their distance is at most \(r\), for some given \(r = r(n)\). We consider the following variation on the random geometric graph: in each of \(n\) rounds in total, a player is offered two random points from the unit square, and has to select exactly one of these two points for inclusion in the evolving geometric graph.We study the problem of avoiding a linear-sized (or “giant”) component in this setting. Specifically, we show that for any \(r \ll (n \log \log n)^{−1/3}\) there is a strategy that succeeds with high probability in keeping all component sizes sublinear. We also show that this is tight in the following sense: for any \(r \gg (n \log \log n)^{−1/3}\) , with high probabiliy the player will be forced to create a component of size \((1 − o(1))n\), no matter how he plays. We also prove that the corresponding offline problem exhibits a similar threshold behavior at \(r(n) = \Theta(n^{−1/3})\).These findings should be compared to the existing results for the (ordinary) random geometric graph: there a giant component arises with high probability once \(r\) is of order \(n^{−1/2}\). Thus our results show, in particular, that in the geometric setting the power of choices can be exploited to a much larger extent than in the classical Erd&ouml;s-R&eacute;nyi random graph, where the appearance of a giant component can only be delayed by a constant factor.
+</li>
+
+
+<p>
+<li>
+M. Bode, N. Fountoulakis, T. M&uuml;ller, 
+<a href="Papers/BFM_connected.pdf" target="_top">The probability of connectivity in a hyperbolic model of complex networks</a>, Random Structures and Algorithms, accepted for publication; 
+<span class="readmore">[+]</span></p>
+<div class="full-article">
+We consider a model for complex networks that was introduced by Krioukov et al. In this model, \(N\) points are chosen randomly inside a disk on the hyperbolic plane according to a distorted version of the uniform distribution and any two of them are joined by an edge if they are within a certain hyperbolic distance. This model exhibits a power-law degree sequence, small distances and clustering. The model is controlled by two parameters \(\alpha\) and \(\nu\) where, roughly speaking, \(\alpha\) controls the exponent of the power-law and \(\nu\) controls the average degree.In this paper we focus on the probability that the graph is connected. We show the following results. For \(\alpha>1/2\) and \(\nu\) arbitrary, the graph is disconnected with high probability. For \(\alpha < 1/2\) and \(\nu\) arbitrary, the graph is connected with high probability.When \(\alpha=1/2\) and \(\nu\) is fixed then the probability of being connected tends to a constant \(f(\nu)\) that depends only on \(\nu\), in a continuous manner. Curiously, \(f(\nu) = 1\) for \(\nu \geq \pi\) while it is strictly increasing, and in particular bounded away from zero and one, for \(0 < \nu < \pi\).
+</li>
+
+
+<p>
+<li>
+A. Li, T. M&uuml;ller, 
+<a href="Papers/twRGG.pdf" target="_top">On the treewidth of random geometric graphs and percolated grids</a>, Advances in Applied Probability, accepted for publication;
+<span class="readmore">[+]</span></p>
+<div class="full-article">
+In this paper, we consider the treewidth of two related random graph models.
+The first one is the random geometric graph, where we drop \(n\) points onto 
+the square \([0,\sqrt{n}]^2\) and connect pairs of points by an edge if their distance is at most \(r = r(n)\).
+The second one is the percolated grid, in which we take a \(k\times k\)-grid and keep each edge with probability \(p\), independently of all other edges. 
+We show that, with probability tending to one as \(k \to \infty\), the treewidth of the percolated grid is \(\Theta( k )\) if
+\(p>1/2\) and \(\Theta( \sqrt{\log k} )\) if \(p < 1/2\).
+By reusing part of the proof of this last result, we also prove a conjecture of Mitsche and Perarnau stating that, 
+with probability going to one as \(n\to\infty\), the treewidth of the random geometric graph is \(\Theta( r\sqrt{n} )\) when \(\liminf r>r_c\), 
+where \(r_c\) is the threshold radius for the appearance of the giant component.
+</li>
+
+
+<!--
+<p>
+<li> T. M&uuml;ller, 
+The asymptotic distribution of the scan statistic, 
+submitted;
+</li>
+-->
+
+<p>
+<li>
+P. Heinig, T. M&uuml;ller, M. Noy, A. Taraz,
+<a href="Papers/LLL.pdf" target="_top">Logical limit laws for minor-closed classes of graphs</a>, submitted. <br>
+(A supporting document for this paper can be found <a href="Papers/SupportLLL.pdf">here</a>.)
+<span class="readmore">[+]</span></p>
+<div class="full-article">
+Let \(\cal G\) be an addable, minor-closed class of graphs. We prove that the zero-one law holds in monadic second-order logic (MSO) for the random graph drawn uniformly at random from all connected graphs in \(G\) on \(n\) vertices, and the convergence law in MSO holds if we draw uniformly at random from all graphs in \(G\) on \(n\) vertices. We also prove analogues of these results for the class of graphs embeddable on a fixed surface, provided we restrict attention to first order logic (FO). Moreover, the limiting probability that a given FO sentence is satisfied is independent of the surface \(S\). We also prove that the closure of the set of limiting probabilities is always the finite union of at least two disjoint intervals, and that it is the same for FO and MSO. For the classes of forests and planar graphs we are able to determine the closure of the set of limiting probabilities precisely. For planar graphs it consists of exactly 108 intervals, each of length \(\approx 5 · 10^{−6}\). Finally, we analyse examples of non-addable classes where the behaviour is quite different. For instance, the zero-one law does not hold for the random caterpillar on \(n\) vertices, even in FO.
+</li>
+
+
+
+<p>
+<li>
+T. M&uuml;ller, 
+<a href="Papers/Confetti.pdf" target="_top">The critical probability for confetti percolation equals 1/2</a>, Random Structures and Algorithms, accepted for publication; 
+<span class="readmore">[+]</span></p>
+<div class="full-article">
+In the confetti percolation model, or two-coloured dead leaves model, radius one disks arrive on the plane according to a space-time Poisson process. Each disk is coloured back with probability \(p\) and white with probability \(1−p\). In this paper we show that the critical probability for confetti percolation equals 1/2. That is, if \(p > 1/2\) then a.s. there is an unbounded curve in the plane all of whose points are black; while if \(p \leq 1/2\) then a.s. all connected components of the set of black points are bounded. This answers a question of Benjamini and Schramm.
+</li>
+
+
+<p>
+<li>
+N. Fountoulakis, T. M&uuml;ller, 
+<a href="Papers/FMgiant.pdf" target="_top">Law of large numbers for the largest component in a hyperbolic model of
+  complex networks</a>, preprint. 
+<span class="readmore">[+]</span></p>
+<div class="full-article">
+We consider the component structure of a recent model of random graphs on the
+hyperbolic plane that was introduced by Krioukov et al. The model exhibits a
+power law degree sequence, small distances and clustering, features that are
+associated with the so-called complex networks. The model is controlled by two
+parameters \(\alpha\) and \(\nu\) where, roughly speaking, \(\alpha\) controls the
+exponent of the power law and \(\nu\) controls the average degree. Refining
+earlier results, we are able to show a law of large numbers for the largest
+component. That is, we show that the fraction of points in the largest
+component tends in probability to a constant \(c\) that depends only on
+\(\alpha,\nu\), while all other components are sublinear. We also study how \(c\)
+depends on \(\alpha, \nu\). To deduce our results, we introduce a local
+approximation of the random graph by a continuum percolation model on
+\(\mathbb{R}^2\) that may be of independent interest.
+</li>
+
+
+
+</ol>

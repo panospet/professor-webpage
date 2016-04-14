@@ -1,0 +1,6 @@
+<p>
+Currently I am teaching the master level course <a href="PEC/">Probabilistic and Extremal Combinatorics</a>
+and the <a href="TeachingMisc/MSS.html">Master Seminar Stochastics</a><!-- (joint with <a href="http://www.staff.science.uu.nl/~ferna107/">Roberto Fern&aacute;ndez</a>)-->, the "honours seminar" and the first year undergraduate course <a href="Kans/Kans.html">Inleiding Kansrekening en Statistiek (WISB161)</a>. <br>
+If all goes well then next acamdemic year the highly succesful 
+course <a href="AC/AC.html">Advanced Combinatorics</a><!-- (joint with <a href="http://www.math.ru.nl/~rkang/">Ross Kang</a>)--> will again be offered through mastermath.
+</p>
