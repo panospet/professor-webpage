@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+g!DOCTYPE html>
 <html>
 	<head>
 		<meta charset="UTF-8">
@@ -18,8 +18,6 @@
 		<script type="text/javascript"
   			src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 		</script>
-
-		<!-- start of jquery scripts-->
 
 		<script type="text/javascript">
 			var aboveHeight = 0;
@@ -93,10 +91,6 @@
         			else if ($(this).text()=="[-]"){$(this).text("[+]");}
         			}
         		);
-
-
-
-
 
 			});
 		</script>
@@ -224,4 +218,3 @@
 		</div>
 	</body>
 </html>
-
