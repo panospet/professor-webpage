@@ -10,7 +10,7 @@
 
 		<link rel="stylesheet" type="text/css" href="style.css" media="screen">
 
-		<link rel="shortcut icon" href="ico.png">
+		<link rel="shortcut icon" href="pictures/ico.png">
 
 		
 	</head>
@@ -19,7 +19,7 @@
 	<body>
 		<div class="whole-wrap">
 		<div id="home"></div>
-		<img id="globe-top" src="globe-top.png">
+		<img id="globe-top" src="pictures/globe-top.png">
 		<div class="nav">
 			<ul>
 				<li><a href="#home">Home</a></li>
@@ -40,7 +40,7 @@
 
 			<div id="intro">
 				<p><?php
-					$filename="intro.txt";
+					$filename="text/intro.txt";
 					$handle=fopen($filename,"r");
 
 					$contents=fread
@@ -53,7 +53,7 @@
 			<div id="research">
 				<h1><span><a name="research">Research</a></span></h1>
 				<p><?php
-					$filename="research.txt";
+					$filename="text/research.txt";
 					$handle=fopen($filename,"r");
 
 					$contents=fread
@@ -66,7 +66,7 @@
 			<div id="co-authors">
 				<h1><span><a name="co-authors">Co-authors</a></span></h1>
 				<p><?php
-					$filename="co-authors.txt";
+					$filename="text/co-authors.txt";
 					$handle=fopen($filename,"r");
 
 					$contents=fread
@@ -79,7 +79,7 @@
 			<div id="gallery">
 				<h1><span><a name="gallery">Gallery</a></span></h1>
 				<p><?php
-					$filename="gallery.txt";
+					$filename="text/gallery.txt";
 					$handle=fopen($filename,"r");
 
 					$contents=fread
@@ -92,7 +92,7 @@
 			<div id="events">
 				<h1><span><a name="events">Events</a></span></h1>
 				<p><?php
-					$filename="events.txt";
+					$filename="text/events.txt";
 					$handle=fopen($filename,"r");
 
 					$contents=fread
@@ -105,7 +105,7 @@
 			<div id="teaching">
 				<h1><span><a name="teaching">Teaching</a></span></h1>
 				<p><?php
-					$filename="teaching.txt";
+					$filename="text/teaching.txt";
 					$handle=fopen($filename,"r");
 
 					$contents=fread
@@ -118,7 +118,7 @@
 			<div id="contact">
 				<h1><span><a name="contact">Contact</a></span></h1>
 				<p><?php
-					$filename="contact.txt";
+					$filename="text/contact.txt";
 					$handle=fopen($filename,"r");
 
 					$contents=fread
@@ -129,7 +129,7 @@
 			</div>
 
 		</div>
-		<img id="globe-bottom" src="globe-bottom.png">
+		<img id="globe-bottom" src="pictures/globe-bottom.png">
 		</div>
 	</body>
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
