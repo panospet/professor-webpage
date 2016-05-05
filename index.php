@@ -138,6 +138,4 @@
 	<script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 	<script type="text/javascript" src="functions.js"></script>
 
-<!-- end of jquery scripts-->
-
 </html>
